@@ -1,38 +1,485 @@
-﻿{
-"type": "FeatureCollection",
-"features": 
-    [
-        { "type": "Feature", "properties": { "id": "Vidigal", "rain": 48.0 }, "geometry": { "type": "Point", "coordinates": [ -43.23306, -22.99250, 85 ] } },
-        { "type": "Feature", "properties": { "id": "Urca", "rain": 60.8 }, "geometry": { "type": "Point", "coordinates": [ -43.16667, -22.95583, 90] } },
-        { "type": "Feature", "properties": { "id": "Rocinha", "rain": 108.8 }, "geometry": { "type": "Point", "coordinates": [ -43.24500, -22.98583, 160 ] } },
-        { "type": "Feature", "properties": { "id": "Tijuca", "rain": 58.2 }, "geometry": { "type": "Point", "coordinates": [ -43.22167,  -22.93194,340 ] } },
-        { "type": "Feature", "properties": { "id": "SantaTereza", "rain": 92.4 }, "geometry": { "type": "Point", "coordinates": [ -43.19639,-22.93167, 170] } },
-        { "type": "Feature", "properties": { "id": "Copacabana", "rain": 56.6 }, "geometry": { "type": "Point", "coordinates": [ -43.18944, -22.98639, 90 ] } },
-        { "type": "Feature", "properties": { "id": "Grajau", "rain": 48.6 }, "geometry": { "type": "Point", "coordinates": [ -43.26750,-22.92222, 80] } },
-        { "type": "Feature", "properties": { "id": "IlhadoGovernador", "rain": 28.8 }, "geometry": { "type": "Point", "coordinates": [ -43.21028,-22.81806, 0] } },
-        { "type": "Feature", "properties": { "id": "Penha", "rain": 15.2 }, "geometry": { "type": "Point", "coordinates": [ -43.27528, -22.84444, 111] } },
-        { "type": "Feature", "properties": { "id": "Madureira", "rain": 13.0 }, "geometry": { "type": "Point", "coordinates": [ -43.33889, -22.87333, 45 ] } },
-        { "type": "Feature", "properties": { "id": "Iraja", "rain": 13.6 }, "geometry": { "type": "Point", "coordinates": [ -43.33694, -22.82694, 20 ] } },
-        { "type": "Feature", "properties": { "id": "Bangu", "rain": 16.2 }, "geometry": { "type": "Point", "coordinates": [ -43.46583, -22.88028, 15 ] } },
-        { "type": "Feature", "properties": { "id": "Piedade", "rain": 20.2 }, "geometry": { "type": "Point", "coordinates": [ -43.31005, -22.89182, 50 ] } },
-        { "type": "Feature", "properties": { "id": "JacarepaguáTanque", "rain": 23.4 }, "geometry": { "type": "Point", "coordinates": [ -43.36472, -22.91250, 73 ] } },
-        { "type": "Feature", "properties": { "id": "Saude", "rain": 0.0 }, "geometry": { "type": "Point", "coordinates": [ -43.18786, -22.89606, 15 ] } },
-        { "type": "Feature", "properties": { "id": "JardimBotanico", "rain": 78.6 }, "geometry": { "type": "Point", "coordinates": [ -43.22389, -22.97278, 0 ] } },
-        { "type": "Feature", "properties": { "id": "BarraBarrinha", "rain": 0.0 }, "geometry": { "type": "Point", "coordinates": [ -43.29965, -23.00849, 7 ] } },
-        { "type": "Feature", "properties": { "id": "JacarepaguaCidadedeDeus", "rain": 41.2 }, "geometry": { "type": "Point", "coordinates": [ -43.36278, -22.94556, 15 ] } },
-        { "type": "Feature", "properties": { "id": "BarraRioCentro", "rain": 53.2 }, "geometry": { "type": "Point", "coordinates": [ -43.39155, -22.97721, 0 ] } },
-        { "type": "Feature", "properties": { "id": "Guaratiba", "rain": 22.4 }, "geometry": { "type": "Point", "coordinates": [ -43.59472, -23.05028, 0 ] } },
-        { "type": "Feature", "properties": { "id": "EstGrajauJacarepagua", "rain": 0.0 }, "geometry": { "type": "Point", "coordinates": [ -43.31583, -22.92556, 105 ] } },
-        { "type": "Feature", "properties": { "id": "SantaCruz", "rain": 32.2 }, "geometry": { "type": "Point", "coordinates": [ -43.68444, -22.90944, 15 ] } },
-        { "type": "Feature", "properties": { "id": "GrandeMeier", "rain": 30.4 }, "geometry": { "type": "Point", "coordinates": [ -43.27806, -22.89056, 25 ] } },
-        { "type": "Feature", "properties": { "id": "Anchieta", "rain": 14.2 }, "geometry": { "type": "Point", "coordinates": [ -43.27806, -22.89056, 50 ] } },
-        { "type": "Feature", "properties": { "id": "GrotaFunda", "rain": 44.0 }, "geometry": { "type": "Point", "coordinates": [ -43.52139, -23.01444, 11 ] } },
-        { "type": "Feature", "properties": { "id": "CampoGrande", "rain": 24.2 }, "geometry": { "type": "Point", "coordinates": [ -43.56194, -22.90361, 11 ] } },
-        { "type": "Feature", "properties": { "id": "Sepetiba", "rain": 43.0 }, "geometry": { "type": "Point", "coordinates": [ -43.71167, -22.96889, 62] } },
-        { "type": "Feature", "properties": { "id": "AltodaBoaVista", "rain": 68.6 }, "geometry": { "type": "Point", "coordinates": [ -43.27833, -22.96583, 355 ] } },
-        { "type": "Feature", "properties": { "id": "AvBrasilMendanha", "rain": 17.0 }, "geometry": { "type": "Point", "coordinates": [ -43.44056, -23.01000, 10 ] } },
-        { "type": "Feature", "properties": { "id": "Laranjeiras", "rain": 83.4 }, "geometry": { "type": "Point", "coordinates": [ -43.18750, -22.94056, 60 ] } },
-        { "type": "Feature", "properties": { "id": "SãoCristovao", "rain": 36.0 }, "geometry": { "type": "Point", "coordinates": [ -43.22167, -22.89667, 25 ] } },
-        { "type": "Feature", "properties": { "id": "TijucaMuda", "rain": 48 }, "geometry": { "type": "Point", "coordinates": [ -43.24333, -22.96278, 31 ] } }
-    ]
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Vidigal",
+        "rain": 48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.23306,
+          -22.9925,
+          85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Urca",
+        "rain": 60.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.16667,
+          -22.95583,
+          90
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Rocinha",
+        "rain": 108.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.245,
+          -22.98583,
+          160
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Tijuca",
+        "rain": 58.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.22167,
+          -22.93194,
+          340
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SantaTereza",
+        "rain": 92.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.19639,
+          -22.93167,
+          170
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Copacabana",
+        "rain": 56.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.18944,
+          -22.98639,
+          90
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Grajau",
+        "rain": 48.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2675,
+          -22.92222,
+          80
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "IlhadoGovernador",
+        "rain": 28.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.21028,
+          -22.81806,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Penha",
+        "rain": 15.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.27528,
+          -22.84444,
+          111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Madureira",
+        "rain": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.33889,
+          -22.87333,
+          45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Iraja",
+        "rain": 13.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.33694,
+          -22.82694,
+          20
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Bangu",
+        "rain": 16.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.46583,
+          -22.88028,
+          15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Piedade",
+        "rain": 20.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.31005,
+          -22.89182,
+          50
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JacarepaguáTanque",
+        "rain": 23.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.36472,
+          -22.9125,
+          73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Saude",
+        "rain": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.18786,
+          -22.89606,
+          15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JardimBotanico",
+        "rain": 78.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.22389,
+          -22.97278,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BarraBarrinha",
+        "rain": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.29965,
+          -23.00849,
+          7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JacarepaguaCidadedeDeus",
+        "rain": 41.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.36278,
+          -22.94556,
+          15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BarraRioCentro",
+        "rain": 53.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.39155,
+          -22.97721,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Guaratiba",
+        "rain": 22.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.59472,
+          -23.05028,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EstGrajauJacarepagua",
+        "rain": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.31583,
+          -22.92556,
+          105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SantaCruz",
+        "rain": 32.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.68444,
+          -22.90944,
+          15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GrandeMeier",
+        "rain": 30.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.27806,
+          -22.89056,
+          25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Anchieta",
+        "rain": 14.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.27806,
+          -22.89056,
+          50
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GrotaFunda",
+        "rain": 44
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.52139,
+          -23.01444,
+          11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CampoGrande",
+        "rain": 24.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.56194,
+          -22.90361,
+          11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Sepetiba",
+        "rain": 43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.71167,
+          -22.96889,
+          62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AltodaBoaVista",
+        "rain": 68.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.27833,
+          -22.96583,
+          355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AvBrasilMendanha",
+        "rain": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.44056,
+          -23.01,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Laranjeiras",
+        "rain": 83.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1875,
+          -22.94056,
+          60
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SãoCristovao",
+        "rain": 36
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.22167,
+          -22.89667,
+          25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TijucaMuda",
+        "rain": 48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.24333,
+          -22.96278,
+          31
+        ]
+      }
+    }
+  ]
 }
