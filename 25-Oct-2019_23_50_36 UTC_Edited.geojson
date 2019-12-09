@@ -2,15 +2,15 @@
 "type": "FeatureCollection",
 "features":
    [
-{ "type": "Feature", "properties": { "id": "0","temperature":-57.980865 }, "geometry": { "type": "Point", "coordinates": [-54.982027318475915,-10.017972681524084] } },
-{ "type": "Feature", "properties": { "id": "1","temperature":-58.41104 }, "geometry": { "type": "Point", "coordinates": [-54.964054636951836,-10.017972681524084] } },
-{ "type": "Feature", "properties": { "id": "2","temperature":-57.42778 }, "geometry": { "type": "Point", "coordinates": [-54.94608195542775,-10.017972681524084] } },
-{ "type": "Feature", "properties": { "id": "3","temperature":-57.05905 }, "geometry": { "type": "Point", "coordinates": [-54.928109273903665,-10.017972681524084] } },
-{ "type": "Feature", "properties": { "id": "4","temperature":-57.612137 }, "geometry": { "type": "Point", "coordinates": [-54.91013659237958,-10.017972681524084] } },
-{ "type": "Feature", "properties": { "id": "5","temperature":-58.34958 }, "geometry": { "type": "Point", "coordinates": [-54.8921639108555,-10.017972681524084] } },
-{ "type": "Feature", "properties": { "id": "6","temperature":-59.88591 }, "geometry": { "type": "Point", "coordinates": [-54.874191229331416,-10.017972681524084] } },
-{ "type": "Feature", "properties": { "id": "7","temperature":-59.88591 }, "geometry": { "type": "Point", "coordinates": [-54.85621854780733,-10.017972681524084] } },
-{ "type": "Feature", "properties": { "id": "8","temperature":-62.159683 }, "geometry": { "type": "Point", "coordinates": [-54.83824586628325,-10.017972681524084] } },
-{ "type": "Feature", "properties": { "id": "9","temperature":-63.3273 }, "geometry": { "type": "Point", "coordinates": [-54.820273184759166,-10.017972681524084] } }
+{ "type": "Feature", "properties": { "id": "0","temperature":-57.980865, "icon": "point" }, "geometry": { "type": "Point", "coordinates": [-54.982027318475915,-10.017972681524084] } },
+{ "type": "Feature", "properties": { "id": "1","temperature":-58.41104, "icon": "point" }, "geometry": { "type": "Point", "coordinates": [-54.964054636951836,-10.017972681524084] } },
+{ "type": "Feature", "properties": { "id": "2","temperature":-57.42778, "icon": "point" }, "geometry": { "type": "Point", "coordinates": [-54.94608195542775,-10.017972681524084] } },
+{ "type": "Feature", "properties": { "id": "3","temperature":-57.05905, "icon": "point" }, "geometry": { "type": "Point", "coordinates": [-54.928109273903665,-10.017972681524084] } },
+{ "type": "Feature", "properties": { "id": "4","temperature":-57.612137, "icon": "point" }, "geometry": { "type": "Point", "coordinates": [-54.91013659237958,-10.017972681524084] } },
+{ "type": "Feature", "properties": { "id": "5","temperature":-58.34958, "icon": "point" }, "geometry": { "type": "Point", "coordinates": [-54.8921639108555,-10.017972681524084] } },
+{ "type": "Feature", "properties": { "id": "6","temperature":-59.88591, "icon": "point" }, "geometry": { "type": "Point", "coordinates": [-54.874191229331416,-10.017972681524084] } },
+{ "type": "Feature", "properties": { "id": "7","temperature":-59.88591, "icon": "point" }, "geometry": { "type": "Point", "coordinates": [-54.85621854780733,-10.017972681524084] } },
+{ "type": "Feature", "properties": { "id": "8","temperature":-62.159683, "icon": "point" }, "geometry": { "type": "Point", "coordinates": [-54.83824586628325,-10.017972681524084] } },
+{ "type": "Feature", "properties": { "id": "9","temperature":-63.3273, "icon": "point" }, "geometry": { "type": "Point", "coordinates": [-54.820273184759166,-10.017972681524084] } }
    ]
 }
